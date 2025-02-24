@@ -1,0 +1,15 @@
+total 52
+-rw-r--r-- 1 rana01 rana01 13444 Feb 15 14:15 Linux1.docx
+-rw-r--r-- 1 rana01 rana01    35 Feb 15 13:36 README.md
+-rw-r--r-- 1 rana01 rana01     0 Feb 15 17:28 babu.txt
+drwxr-xr-x 4 rana01 rana01  4096 Feb 15 18:33 dir1
+-rw-r--r-- 1 rana01 rana01    37 Feb 16 15:08 error.txt
+-rw-r--r-- 1 rana01 rana01    24 Feb 16 15:22 file3.txt
+-rw-r--r-- 1 rana01 rana01    29 Feb 16 05:13 gh.txt
+-rw-r--r-- 1 rana01 rana01     0 Feb 16 05:12 ght.txt
+-rw-r--r-- 1 rana01 rana01     0 Feb 16 15:29 output.txt
+-rw-r--r-- 1 rana01 rana01  9693 Feb 16 15:20 output1.txt
+-rw-r--r-- 1 rana01 rana01     0 Feb 15 18:09 papa.log
+-rw-r--r-- 1 rana01 rana01     0 Feb 15 18:10 papa1181027.log
+-rw-r--r-- 1 rana01 rana01     0 Feb 15 18:09 papa250225.log
+-rw-r--r-- 1 rana01 rana01    24 Feb 16 15:22 sort.txt
